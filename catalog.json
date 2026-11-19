@@ -1,0 +1,15 @@
+{
+  "apps": [
+    {
+      "id": "com.eye.coloringkidspro",
+      "packageName": "com.eye.coloringkidspro",
+      "name": "Coloring Kids Pro",
+      "versionName": "1.0.0",
+      "versionCode": 1,
+      "description": "ကလေးများအတွက် ပျော်စရာ အရောင်ခြယ် app",
+      "sha256": "73fd173cc1f53e98434806a669753e20d17448347f8e608a4fea92d214edd905",
+      "iconUrl": "https://raw.githubusercontent.com/aunghtetpaing9b-tech/eye-studio-store/main/Untitled66_20260501220234.png",
+      "apkUrl": "https://github.com/aunghtetpaing9b-tech/eye-studio-store/releases/download/coloring-kids-pro-v1.0.0/Coloring-Kids-Pro.apk"
+    }
+  ]
+}
